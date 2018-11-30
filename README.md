@@ -11,6 +11,4 @@
  #### 6. 启动模拟器
  
  ## 效果：
- ![image](https://github.com/HelloYKYK/hardware_mix3_skin/blob/master/mix.png)
- 
-
+ ![image](https://github.com/HelloYKYK/hardware_mix3_skin/blob/master/mix.PNG)
