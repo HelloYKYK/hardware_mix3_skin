@@ -1,6 +1,6 @@
 # 用小米mix3照片做的全面屏模拟器皮肤
 
- > ## 哈哈，Android Studio里的模拟器皮肤都没有全面屏的，整了个
+ > ## Android Studio里的模拟器皮肤都没有全面屏的，整了个
 > ## 参考资料：https://developer.android.com/studio/run/managing-avds#skins
 ## 使用方法：
  #### 1.  下载本仓库 mix3.zip 文件
